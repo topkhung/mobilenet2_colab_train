@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder (2)</folder>
+	<filename>36169.jpg</filename>
+	<path>C:\Users\Black lotus\Downloads\work\New folder (2)\36169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>469</ymin>
+			<xmax>1033</xmax>
+			<ymax>997</ymax>
+		</bndbox>
+	</object>
+</annotation>

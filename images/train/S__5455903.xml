@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ai</folder>
+	<filename>S__5455903.jpg</filename>
+	<path>D:\ai\S__5455903.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1108</width>
+		<height>1478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>354</ymin>
+			<xmax>818</xmax>
+			<ymax>1294</ymax>
+		</bndbox>
+	</object>
+</annotation>

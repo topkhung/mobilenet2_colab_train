@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mm</folder>
+	<filename>151856081_875200099912776_8075608192074419895_n.jpg</filename>
+	<path>D:\Mm\151856081_875200099912776_8075608192074419895_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>1296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>386</ymin>
+			<xmax>1411</xmax>
+			<ymax>835</ymax>
+		</bndbox>
+	</object>
+</annotation>

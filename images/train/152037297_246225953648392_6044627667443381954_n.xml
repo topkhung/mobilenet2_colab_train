@@ -1,0 +1,26 @@
+<annotation>
+	<folder>โฟลเดอร์ใหม่ (2)</folder>
+	<filename>152037297_246225953648392_6044627667443381954_n.jpg</filename>
+	<path>C:\Users\karnt\Downloads\โฟลเดอร์ใหม่ (2)\152037297_246225953648392_6044627667443381954_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>754</ymin>
+			<xmax>1088</xmax>
+			<ymax>1684</ymax>
+		</bndbox>
+	</object>
+</annotation>

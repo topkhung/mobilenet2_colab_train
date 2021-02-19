@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mouse</folder>
+	<filename>151778140_883221692433648_562249370831648696_n.jpg</filename>
+	<path>C:\Users\karnt\Downloads\Mouse\151778140_883221692433648_562249370831648696_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2731</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>760</ymin>
+			<xmax>2566</xmax>
+			<ymax>1743</ymax>
+		</bndbox>
+	</object>
+</annotation>

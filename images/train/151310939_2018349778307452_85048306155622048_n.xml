@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>151310939_2018349778307452_85048306155622048_n.jpg</filename>
+	<path>C:\Users\User\Dropbox\My PC (LAPTOP-9Q47KAGR)\Desktop\New folder\151310939_2018349778307452_85048306155622048_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1170</width>
+		<height>1560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>615</ymin>
+			<xmax>642</xmax>
+			<ymax>1162</ymax>
+		</bndbox>
+	</object>
+</annotation>
